@@ -13,6 +13,7 @@ export const HomePage = () => {
       behavior: "smooth",
     });
   }, []);
+  // testing push
 
   return (
     <>
